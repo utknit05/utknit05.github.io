@@ -1,0 +1,52 @@
+html,body{
+  height: 100%;
+  width: 100%;
+  font-family: fantasy;
+}
+
+
+.p-2{
+  background-color: grey;
+}
+
+.startup{
+  background-position: center;
+  background-image: url("header.jpg");
+  background-size: cover;
+  height: 100%;
+}
+
+h1{
+  font-size: 2rem;
+}
+
+.btn-xl {
+  padding: 1rem 2rem; 
+}
+
+
+hr{
+  margin-top: 200px;
+  background-color: #F05F44;
+  width: 50px;
+  height: 2px;
+  margin-bottom: 20px;
+}
+
+.btn{
+    border-radius: 300px;
+
+}
+
+.btn-primary{
+  
+  background-color: #F05F44;
+  border-color: #F05F44;
+}
+
+.btn-primary:hover {
+   background-color: #ee4b08;
+   border-color: #ee4b08;
+   border-width: 5px;
+   cursor: pointer;
+}
